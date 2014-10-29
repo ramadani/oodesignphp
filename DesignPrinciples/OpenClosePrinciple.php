@@ -2,11 +2,9 @@
 /**
  * Created by PhpStorm.
  * User: Dani
- * Date: 10/29/2014
- * Time: 8:52 PM
  */
 
-namespace DesignPrinciples;
+namespace DesignPrinciples\OCP;
 
 
 abstract class Shape
